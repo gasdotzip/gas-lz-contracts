@@ -2,8 +2,8 @@
 pragma solidity ^0.8.13;
 
 import {Test, console2} from "forge-std/Test.sol";
-import {GasZipLZ} from "../src/GasZipLZ.sol";
-import {LZEndpointMock} from "../src/layerzero/mocks/LZEndpointMock.sol";
+import {GasZipLZ} from "../src/v1/GasZipLZ.sol";
+import {LZEndpointMock} from "../src/v1/layerzero/mocks/LZEndpointMock.sol";
 
 contract CounterTest is Test {
 
