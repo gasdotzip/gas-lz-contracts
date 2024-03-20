@@ -13,13 +13,14 @@ Additional documentation and implementations can be found at [https://dev.gas.zi
 ### Chain Support 
 
 Inbound chains for LayerZero v2: [here](https://dev.gas.zip/layerzero/chain-support/inbound)
+
 Outbound chains for LayerZero v2: [here](https://dev.gas.zip/layerzero/chain-support/outbound)
 
 ### Depositing to Gas LayerZero v2
 
 All `sendDeposits()` calls into the Gas LayerZero contract and must be encoded as a `uint256` where the leftmost 16 bits are the destination chain ID and the rightmost 240 bits are the amount (in `wei`) you'd like to recieve on the destination chain.
 
-###$ Example of Process
+#### Example of Process
 
 1. **Select the Source Chain**: Start by selecting your source chain to deposit from.
 
