@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://www.gas.zip/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FgasPump.e8ffd1df.png&w=128&q=75" align="center" />
- <h2 align="center">Gas.zip LayerZero v2<br>Gas Reloader</h2>
+ <h3 align="center">Gas.zip LayerZero v2<br>Gas Reloader</h3>
  <p align="center">Batched gas reloader for 50+ supported LayerZero v2 chains.</p>
 </p>
 
@@ -9,12 +9,6 @@
 Gas.zip is the fastest one-stop gas refuel bridge for over 140+ chains. Gas.zip has a LayerZero gas reloader at [https://lz.gas.zip](https://lz.gas.zip), allowing users to bridge to mutiple LayerZero destination chains with a single inbound transaction. All software is licensed under MIT and is verified on-chain at the [respective addresses](https://dev.gas.zip/layerzero/chain-support/inbound). 
 
 Additional documentation and implementations can be found at [https://dev.gas.zip](https://dev.gas.zip). 
-
-### Chain Support 
-
-Inbound chains for LayerZero v2: [here](https://dev.gas.zip/layerzero/chain-support/inbound)
-
-Outbound chains for LayerZero v2: [here](https://dev.gas.zip/layerzero/chain-support/outbound)
 
 ### Depositing to Gas LayerZero v2
 
