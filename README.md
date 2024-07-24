@@ -6,7 +6,7 @@
 
 ### Overview
 
-Gas.zip is the fastest one-stop gas refuel bridge for over 175+ chains. Gas.zip has a LayerZero gas reloader at [https://lz.gas.zip](https://lz.gas.zip), allowing users to bridge to mutiple LayerZero destination chains with a single inbound transaction. All software is licensed under MIT and is verified on-chain at the [respective addresses](https://dev.gas.zip/layerzero/chain-support/inbound). 
+Gas.zip is the fastest one-stop gas refuel bridge for over 200+ chains. Gas.zip has a LayerZero gas reloader at [https://lz.gas.zip](https://lz.gas.zip), allowing users to bridge to mutiple LayerZero destination chains with a single inbound transaction. All software is licensed under MIT and is verified on-chain at the [respective addresses](https://dev.gas.zip/layerzero/chain-support/inbound). 
 
 Additional documentation and implementations can be found at [https://dev.gas.zip](https://dev.gas.zip). 
 
